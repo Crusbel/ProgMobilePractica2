@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuCelular"
+        android:enabled="true"
+        android:title="@string/celular"
+        android:icon="@drawable/ic_celular"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menuLaptop"
+        android:enabled="true"
+        android:title="@string/laptop"
+        android:icon="@drawable/ic_laptop"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menuTelevisor"
+        android:enabled="true"
+        android:title="@string/televisor"
+        android:icon="@drawable/ic_televisor"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menuSonido"
+        android:enabled="true"
+        android:title="@string/sonido"
+        android:icon="@drawable/ic_sonido"
+        app:showAsAction="ifRoom"/>
+</menu>

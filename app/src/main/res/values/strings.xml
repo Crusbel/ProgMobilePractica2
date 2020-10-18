@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="televisor">Televisor</string>
+    <string name="celular">Celular</string>
+    <string name="laptop">Laptop</string>
+    <string name="sonido">Audio</string>
+</resources>
